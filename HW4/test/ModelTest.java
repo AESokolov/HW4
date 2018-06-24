@@ -1,5 +1,4 @@
 import static org.junit.Assert.*;
-
 import org.itstep.Model;
 import org.junit.Test;
 
